@@ -32,13 +32,13 @@ namespace deliveryFood.Areas.Customer.Controllers
 				OrderHeader = new()
             };
 
-			//не потрібна штука, але хай буде, бо лінь забрати, а шо як заплутаюсь? Я просто спати хочу 😫
+			
 			foreach (var cart in ShoppingCartVM.ListCart)
             {
                 cart.Price = cart.Product.Prise;
-                ShoppingCartVM.OrderHeader.OrderTotal+=(cart.Price * cart.Count); // ай та пофіг, най вже буде цей фор іч -_-  (неожидані сюжетні повороти у цього індуса) ЛІНЬ ДВИГУН ПРОГРЕСУ
-            }                                                                                                                                              // свобода - це рабство    свободу попагаям...
-			//:)   (deliveryFood\Areas\Customer\Views\Cart\Index.cshtml) || 152 серія                                                                         незнання - сила 
+                ShoppingCartVM.OrderHeader.OrderTotal+=(cart.Price * cart.Count); 
+            }                                                                                                                                                  
+			                                                                        
 
 			return View(ShoppingCartVM);
         }
