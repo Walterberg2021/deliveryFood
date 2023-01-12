@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\deliveryFood.bundle.scp.css",
+      "PackagePath": "staticwebassets\\deliveryFood.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\07b98965-8f48-47bd-b7ad-fe9291ada8bb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\07b98965-8f48-47bd-b7ad-fe9291ada8bb.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\12dac5f1-0a31-4882-b860-bfb32fc53711.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\12dac5f1-0a31-4882-b860-bfb32fc53711.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\141de5a5-d023-42c0-8e95-b619eb68a6c7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\141de5a5-d023-42c0-8e95-b619eb68a6c7.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\23c9883c-1069-4ef2-9667-309f50bd197f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\23c9883c-1069-4ef2-9667-309f50bd197f.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\2489ca6f-f97e-407c-9052-1fc09ea3469a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\2489ca6f-f97e-407c-9052-1fc09ea3469a.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\35f99f6c-8c81-41fb-b34c-c3c0d57223f0.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\35f99f6c-8c81-41fb-b34c-c3c0d57223f0.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\3d6fc3a7-5e18-467d-9d4c-60b4be4f3c4d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3d6fc3a7-5e18-467d-9d4c-60b4be4f3c4d.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\4772be0a-9c90-4677-85f4-f84a784a6451.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\4772be0a-9c90-4677-85f4-f84a784a6451.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\478a3b42-aa11-474f-90f9-11999afaf2cb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\478a3b42-aa11-474f-90f9-11999afaf2cb.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\4b2581df-215b-41a4-af64-ec08b0af7f68.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\4b2581df-215b-41a4-af64-ec08b0af7f68.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\591ae900-2234-4702-8460-726372dc98d7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\591ae900-2234-4702-8460-726372dc98d7.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\656c2bb3-bef6-4347-8d67-bdbbac432246.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\656c2bb3-bef6-4347-8d67-bdbbac432246.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\676a92ca-410d-4c7e-a6e3-aea705fcfcea.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\676a92ca-410d-4c7e-a6e3-aea705fcfcea.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\74ab4b57-013c-4e3e-826e-612c2d798853.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\74ab4b57-013c-4e3e-826e-612c2d798853.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\7cb2f62e-d2d3-4bd4-824e-51407e0eb25c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\7cb2f62e-d2d3-4bd4-824e-51407e0eb25c.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\8429c687-a9b1-4c1a-a743-c1df61f3f8a1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\8429c687-a9b1-4c1a-a743-c1df61f3f8a1.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\8cb67726-59ad-48b5-8696-761d056bbcbb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\8cb67726-59ad-48b5-8696-761d056bbcbb.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\a24591cc-c10b-444c-8732-8a0095bc165f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\a24591cc-c10b-444c-8732-8a0095bc165f.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\a8cd51a5-6abf-423d-9378-fc54b4b36391.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\a8cd51a5-6abf-423d-9378-fc54b4b36391.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\a94f7a9c-f3bd-4ff3-8758-b93be002fc02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\a94f7a9c-f3bd-4ff3-8758-b93be002fc02.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\afb57e92-a33e-43af-a416-f64ddf2064ce.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\afb57e92-a33e-43af-a416-f64ddf2064ce.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\bab949c4-45eb-477f-959e-47424e635ad6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\bab949c4-45eb-477f-959e-47424e635ad6.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\bb2fa9c8-2895-4466-becd-08e057f54655.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\bb2fa9c8-2895-4466-becd-08e057f54655.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\c536b2d7-5cb7-4639-b4bb-1cb5320797f8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\c536b2d7-5cb7-4639-b4bb-1cb5320797f8.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\c5d16e24-f3c8-4bd6-a1ca-f9b162b05f2c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\c5d16e24-f3c8-4bd6-a1ca-f9b162b05f2c.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\d9cfad1e-2e77-4c1f-a0e7-848ce8c7aca1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d9cfad1e-2e77-4c1f-a0e7-848ce8c7aca1.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\dd05231a-be1f-4470-8bd0-7f4273ca7ab3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\dd05231a-be1f-4470-8bd0-7f4273ca7ab3.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\eb7077ed-dbd8-4d65-b10a-47eb499d4ac0.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\eb7077ed-dbd8-4d65-b10a-47eb499d4ac0.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\f2ed06cc-9fc4-4b2e-9be1-726f1988016c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\f2ed06cc-9fc4-4b2e-9be1-726f1988016c.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\f4fc924a-ca92-4294-b9a9-22926c469bda.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\f4fc924a-ca92-4294-b9a9-22926c469bda.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\css\\bw_solar.css",
+      "PackagePath": "staticwebassets\\css\\bw_solar.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.deliveryFood.props",
+      "PackagePath": "build\\deliveryFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.deliveryFood.props",
+      "PackagePath": "buildMultiTargeting\\deliveryFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.deliveryFood.props",
+      "PackagePath": "buildTransitive\\deliveryFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.deliveryFood.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\deliveryFood.bundle.scp.css",
+      "PackagePath": "staticwebassets\\deliveryFood.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\6f1be9ec-93a2-4db6-acfe-9c11adead0fa.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\6f1be9ec-93a2-4db6-acfe-9c11adead0fa.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\9ea04b67-754e-44d4-973d-c3443cd4ea45.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\9ea04b67-754e-44d4-973d-c3443cd4ea45.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\Images\\Product\\e378f7cc-0748-4d2c-b3fd-fb7b1917a0df.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\e378f7cc-0748-4d2c-b3fd-fb7b1917a0df.jpg"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\css\\bw_solar.css",
+      "PackagePath": "staticwebassets\\css\\bw_solar.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Roman\\study\\2course1sem\\с#\\kursova\\deliveryFood\\deliveryFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.deliveryFood.props",
+      "PackagePath": "build\\deliveryFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.deliveryFood.props",
+      "PackagePath": "buildMultiTargeting\\deliveryFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.deliveryFood.props",
+      "PackagePath": "buildTransitive\\deliveryFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.deliveryFood.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

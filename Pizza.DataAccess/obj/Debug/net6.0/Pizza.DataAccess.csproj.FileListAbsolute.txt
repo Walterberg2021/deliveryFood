@@ -1,0 +1,17 @@
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.csproj.AssemblyReference.cache
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.AssemblyInfoInputs.cache
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.AssemblyInfo.cs
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.csproj.CoreCompileInputs.cache
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\bin\Debug\net6.0\Pizza.DataAccess.deps.json
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\bin\Debug\net6.0\Pizza.DataAccess.runtimeconfig.json
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\bin\Debug\net6.0\Pizza.DataAccess.dll
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\bin\Debug\net6.0\Pizza.DataAccess.pdb
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\bin\Debug\net6.0\Pizza.Models.dll
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\bin\Debug\net6.0\Pizza.Models.pdb
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.csproj.CopyComplete
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.dll
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\refint\Pizza.DataAccess.dll
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.pdb
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\Pizza.DataAccess.genruntimeconfig.cache
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.DataAccess\obj\Debug\net6.0\ref\Pizza.DataAccess.dll

@@ -1,0 +1,12 @@
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\bin\Debug\net6.0\Pizza.Utility.deps.json
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\bin\Debug\net6.0\Pizza.Utility.dll
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\bin\Debug\net6.0\Pizza.Utility.pdb
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\Pizza.Utility.csproj.AssemblyReference.cache
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\Pizza.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\Pizza.Utility.AssemblyInfoInputs.cache
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\Pizza.Utility.AssemblyInfo.cs
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\Pizza.Utility.csproj.CoreCompileInputs.cache
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\Pizza.Utility.dll
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\refint\Pizza.Utility.dll
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\Pizza.Utility.pdb
+D:\Roman\study\2course1sem\с#\kursova\deliveryFood\Pizza.Utility\obj\Debug\net6.0\ref\Pizza.Utility.dll
